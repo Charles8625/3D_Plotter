@@ -53,3 +53,5 @@ class ButtonActions:
         # num = self.smooth_textEdit.toPlainText()
         variable = str(self.z_funcTextEdit.toPlainText())
         return variable
+
+# Another Test
