@@ -42,3 +42,5 @@ class Graphs:
         title.canvas.set_window_title('Surface Plot')
         fig.colorbar(surf, shrink=0.5, aspect=10)
         show()
+
+# Laptop Test
